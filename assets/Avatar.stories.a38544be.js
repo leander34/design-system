@@ -1,0 +1,2 @@
+import{A as t}from"./index.94a7aafd.js";import"./index.9bce58f5.js";import"./iframe.a29da56f.js";import"./index.df0f00af.js";import"./jsx-runtime.f21689ef.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leander34.png",alt:"Leander Silveira"},argTypes:{src:{description:"Image",table:{type:{summary:"Ol\xE1",details:"ok"}},control:{type:"text"}}}},p={},l={args:{src:void 0}},m=["Primary","Withfallback"];export{p as Primary,l as Withfallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.a38544be.js.map
